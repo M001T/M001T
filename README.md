@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**M001T/M001T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Apps for Companies and Large DB Apps
 - 🌱 I’m currently learning Linux Servers and Godot Engine
@@ -12,4 +6,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter/MongoDB
 - 📫 How to reach me: My Github
 - ⚡ Fun fact: Writing bugs since 15 years
--->
