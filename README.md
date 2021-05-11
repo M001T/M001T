@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on Apps for Companies and Large DB Apps
-- 🌱 I’m currently learning Linux Servers and Godot Engine
-- 👯 I’m looking to collaborate on Dart Desktop repo and Torrent Apps
-- 🤔 I’m looking for help with Godot Engine Multiplayer
+- 🔭 I’m currently working on CryptoCoin App with Flutter
+- 🌱 I’m currently learning Linux server and arduino 
+- 👯 I’m looking to collaborate on Dart Desktop repo
+- 🤔 I’m looking for help with c++
 - 💬 Ask me about Flutter/MongoDB
